@@ -84,6 +84,26 @@ In the new window, make sure that the `Bink 1` file format (AKA `.bik`) is selec
 
 Note that this step may take up to several tens of minutes or even hours if the video is especially long (> 10 min).
 
+After the compression is finished, close all RAD Video Tools windows.
+
 ### 7. Add sound from `.wav` to `.bik` using Rad Video Tools
 
+Now, open RAD Video Tools once again and navigate to your directory inside the program. Here, select the newly generated `output.bik` and click `Mix in sound`, as shown in the image below:
 
+![Instructions visualization](images/subtitles_rvt3.png)
+
+In the new window, click `Browse`, navigate to your directory and select `output.wav`. After that, press `Mix`, as shown in the image below:
+
+![Instructions visualization](images/subtitles_rvt4.png)
+
+When the sound mixing finished, close all RAD Video Tools windows.
+
+### Conclusion
+
+You should now be left with a file called `New_output.bik` in your directory. RAD Video Tools also provides a Bink Video File player, so you can check if the process was successful.
+
+## Footnote
+
+Thank you for reading my guide.
+
+If you find an error or if you would like help, feel free to contact me.
