@@ -58,6 +58,7 @@ You will also need a `.wav` sound file for later. You can generate it from the `
 Next, you will need to convert your subtitle file to an `.ass` file. Note that this subtitle file should already be filled and in accordance with the [SubRip file format](https://en.wikipedia.org/wiki/SubRip#Format).
 
 For an `.srt` file, the command will be `ffmpeg -i "input.srt" "output.ass"` (replace `input.srt` with the name of your `.srt` file)
+
 For an `.txt` file, the command will be `ffmpeg -i "input.txt" "output.ass"` (replace `input.txt` with the name of your `.txt` file)
 
 ### 4. Optional: Configure `.ass` formatting
