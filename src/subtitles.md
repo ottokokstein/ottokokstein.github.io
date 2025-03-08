@@ -6,20 +6,20 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 
 ### Input files
 
-1. A `.bik` video file
-2. A `.srt` or `.txt` subtitle file
+1. `.bik` video file
+2. `.srt` or `.txt` subtitle file
 
 ### Output file
 
-1. A `.bik` video file with subtitles burned into it
+1. `.bik` video file with subtitles burned into it
 
 ## Required programs
 
-1. FFmpeg
-2. VLC Media Player
-3. RAD Video Tools
+1. FFmpeg (Install via [this article](https://www.hostinger.com/tutorials/how-to-install-ffmpeg))
+2. VLC Media Player (Download [here](https://www.videolan.org/vlc/))
+3. RAD Video Tools (Download [here](https://www.radgametools.com/bnkdown.htm) - Mind the password)
 
-## Steps
+## Process Overview
 
 1. Convert `.bik` to `.mp4` using FFmpeg
 2. Generate `.wav` from `.mp4` using FFmpeg
@@ -28,3 +28,27 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 5. Burn `.ass` into `.mp4` using VLC Media Player
 6. Convert `.mp4` to `.bik` using Rad Video Tools (with sound compression turned off)
 7. Add sound from `.wav` to `.bik` using Rad Video Tools
+
+## Detailed Guide
+
+### 0. Prepare files
+
+To make the process easier, put both the initial `.bik` video file and the `.srt` or `.txt` subtitle file in one folder together.
+
+### 1. Convert `.bik` to `.mp4` using FFmpeg
+
+To convert a Bink Video File (`.bik`) to `.mp4`, we will use FFmpeg. First, open the Command Prompt and navigate to the directory where your input files are located using the `cd` command. For example:
+
+`cd "C:\Program Files\"` (or `D:` and then `cd "D:\Program Files\"` if navigating to a different drive)
+
+You can then convert the `.bik` video file using:
+
+`ffmpeg -i "input.bik" -c:v libx264 -preset fast -crf 23 -c:a aac` (replace `input.bik` with the name of your `.bik` file)
+
+Setting the `crf` value (default = 23) lower will make the output `.mp4` video higher quality at the expense of its size (0 = lossless but largest file size).
+
+### 2. Generate `.wav` from `.mp4` using FFmpeg
+
+We will need a `.wav` sound file for later. You can generate it from the `.mp4` you just created using:
+
+`ffmpeg -i "input.mp4" -acodec pcm_s16le -ar 44100 -ac 2 output.wav`
