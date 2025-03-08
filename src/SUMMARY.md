@@ -1,6 +1,6 @@
 # Summary
 
-- [About Me](about-me.md)
+[About Me](about-me.md)
 
 # Projects
 
