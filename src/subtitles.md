@@ -75,3 +75,7 @@ If your `.ass` subtitles are ready to be burned into your video, you can do so u
 After you extract the `.7z` file using the password and installing Rad Video Tools, open it and navigate to your directory inside the program. Then, select `output.mp4` and press `Bink it!`, as shown in the image below:
 
 ![Instructions visualization](images/subtitles_rvt1.png)
+
+In the new window, make sure that the `Compress audio` checkbox is **unchecked** (When left checked, the generated `.bik` file will have just static noise instead of the original audio, not sure why this is). After that, press `Bink`, as shown in the image below:
+
+![Instructions visualization](images/subtitles_rvt2.png)
