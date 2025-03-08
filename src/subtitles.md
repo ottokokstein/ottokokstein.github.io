@@ -57,8 +57,8 @@ You will also need a `.wav` sound file for later. You can generate it from the `
 
 Next, you will need to convert your subtitle file to an `.ass` file. Note that this subtitle file should already be filled and in accordance with the [SubRip file format](https://en.wikipedia.org/wiki/SubRip#Format).
 
-For an `.srt` file, the command will be `ffmpeg -i input.srt output.ass` (replace `input.srt` with the name of your `.srt` file)
-For an `.txt` file, the command will be `ffmpeg -i input.txt output.ass` (replace `input.txt` with the name of your `.txt` file)
+For an `.srt` file, the command will be `ffmpeg -i "input.srt" "output.ass"` (replace `input.srt` with the name of your `.srt` file)
+For an `.txt` file, the command will be `ffmpeg -i "input.txt" "output.ass"` (replace `input.txt` with the name of your `.txt` file)
 
 ### 4. Optional: Configure `.ass` formatting
 
@@ -68,4 +68,8 @@ The `.ass` subtitle format supports a wide range of customization. You can edit 
 
 If your `.ass` subtitles are ready to be burned into your video, you can do so using this command:
 
-`ffmpeg -i "input.mp4" -i "subtitles.ass" -c:v libx264 -c:a aac -strict experimental -scodec mov_text "output.mp4"`
+`ffmpeg -i "input.mp4" -vf "ass=output.ass" "output.mp4"` (replace `input.mp4` with the name of your `.mp4` file)
+
+### 6. Convert `.mp4` to `.bik` using Rad Video Tools (with sound compression turned off)
+
+After you extract the `.7z` file using the password and installing Rad Video Tools, open it 
