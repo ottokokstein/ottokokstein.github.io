@@ -1,0 +1,10 @@
+[book]
+authors = []
+title = "My Book"
+language = "en"
+
+[output.html]
+# Default output is HTML
+
+[preprocessor]
+# Add custom preprocessor configurations if needed
