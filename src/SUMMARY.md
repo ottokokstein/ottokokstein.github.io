@@ -1,4 +1,4 @@
 # Summary
 
-- [Introduction](README.md)
-- [TEST](test.md)
+- [Home](home.md)
+- [Test](test.md)
