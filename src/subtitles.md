@@ -16,16 +16,16 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 ## Required programs
 
 1. FFmpeg (Install via [this article](https://www.hostinger.com/tutorials/how-to-install-ffmpeg))
-2. VLC Media Player (Download [here](https://www.videolan.org/vlc/))
+2. Optional: VLC Media Player (Download [here](https://www.videolan.org/vlc/))
 3. RAD Video Tools (Download [here](https://www.radgametools.com/bnkdown.htm) - Mind the password)
 
 ## Process Overview
 
 1. Convert `.bik` to `.mp4` using FFmpeg
 2. Generate `.wav` from `.mp4` using FFmpeg
-3. Convert `.srt` (or `.txt`) to `.ass` using FFmpeg
+3. Convert `.srt` or `.txt` to `.ass` using FFmpeg
 4. Optional: Configure `.ass` formatting
-5. Burn `.ass` into `.mp4` using VLC Media Player
+5. Burn `.ass` into `.mp4` using FFmpeg
 6. Convert `.mp4` to `.bik` using Rad Video Tools (with sound compression turned off)
 7. Add sound from `.wav` to `.bik` using Rad Video Tools
 
@@ -49,6 +49,23 @@ Setting the `crf` value (default = 23) lower will make the output `.mp4` video h
 
 ### 2. Generate `.wav` from `.mp4` using FFmpeg
 
-We will need a `.wav` sound file for later. You can generate it from the `.mp4` you just created using:
+You will also need a `.wav` sound file for later. You can generate it from the `.mp4` you just created using:
 
-`ffmpeg -i "input.mp4" -acodec pcm_s16le -ar 44100 -ac 2 output.wav`
+`ffmpeg -i "input.mp4" -acodec pcm_s16le -ar 44100 -ac 2 "output.wav"` (replace `input.mp4` with the name of your `.mp4` file)
+
+### 3. Convert `.srt` or `.txt` to `.ass` using FFmpeg
+
+Next, you will need to convert your subtitle file to an `.ass` file. Note that this subtitle file should already be filled and in accordance with the [SubRip file format](https://en.wikipedia.org/wiki/SubRip#Format).
+
+For an `.srt` file, the command will be `ffmpeg -i input.srt output.ass` (replace `input.srt` with the name of your `.srt` file)
+For an `.txt` file, the command will be `ffmpeg -i input.txt output.ass` (replace `input.txt` with the name of your `.txt` file)
+
+### 4. Optional: Configure `.ass` formatting
+
+The `.ass` subtitle format supports a wide range of customization. You can edit the subtitles directly in Notepad and preview them in the VLC Media Player.
+
+### 5. Burn `.ass` into `.mp4` using FFmpeg
+
+If your `.ass` subtitles are ready to be burned into your video, you can do so using this command:
+
+`ffmpeg -i "input.mp4" -i "subtitles.ass" -c:v libx264 -c:a aac -strict experimental -scodec mov_text "output.mp4"`
