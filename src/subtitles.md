@@ -76,6 +76,6 @@ After you extract the `.7z` file using the password and installing Rad Video Too
 
 ![Instructions visualization](images/subtitles_rvt1.png)
 
-In the new window, make sure that the `Compress audio` checkbox is **unchecked** (When left checked, the generated `.bik` file will have just static noise instead of the original audio, not sure why this is). After that, press `Bink`, as shown in the image below:
+In the new window, make sure that the `Bink 1` file format (AKA `.bik`) is selected and that the `Compress audio` checkbox is **unchecked** (When left checked, the generated `.bik` file will have just static noise instead of the original audio, not sure why this is). After that, press `Bink`, as shown in the image below:
 
 ![Instructions visualization](images/subtitles_rvt2.png)
