@@ -1,10 +1,12 @@
 [book]
 authors = ["Otto Kokstein"]
-title = "My Book"
 language = "en"
+multilingual = false
+src = "src"
+title = "Test Site"
 
 [output.html]
-# Default output is HTML
+git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
 
-[preprocessor]
-# Add custom preprocessor configurations if needed
+[build]
+create-missing = false
