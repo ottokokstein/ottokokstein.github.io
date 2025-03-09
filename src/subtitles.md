@@ -21,7 +21,7 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 
 ## Process Overview
 
-1. Convert `.bik` to `.mp4` using FFmpeg
+1. [Convert `.bik` to `.mp4` using FFmpeg](#Convert-`.bik`-to-`.mp4`-using-FFmpeg)
 2. Generate `.wav` from `.mp4` using FFmpeg
 3. Convert `.srt` or `.txt` to `.ass` using FFmpeg
 4. Optional: Configure `.ass` formatting
