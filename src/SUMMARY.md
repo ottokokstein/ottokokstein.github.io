@@ -4,9 +4,9 @@
 
 # Projects
 
-- [Enderal Localization](enderal-localization.md)
+- [Enderal Localization [WIP]](enderal-localization.md)
 - [Bezierve](bezierve.md)
 
 # Guides
 
-- [Burning Subtitles into a .bik Video File](subtitles.md)
+- [Burning subtitles into a Bink Video File (.bik)](subtitles.md)
