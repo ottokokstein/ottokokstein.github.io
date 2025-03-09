@@ -2,4 +2,4 @@ My name is Otto Kokstein, I am a student in the Czech Republic.
 
 Feel free to contact me here:
 
-![Alt text](images/email.png)
+<img src="images/email.png" alt="Alt text" style="width: 50%;" />
