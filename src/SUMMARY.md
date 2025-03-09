@@ -4,7 +4,9 @@
 
 # Projects
 
-- [Enderal Localization [WIP]](enderal-localization.md)
+- Enderal Localization [WIP]
+  - [Enderal Localization (EN)](enderal-localization-en.md)
+  - [Lokalizace modu Enderal (CZ)](enderal-localization-cz.md)
 - [Bezierve](bezierve.md)
 
 # Guides
