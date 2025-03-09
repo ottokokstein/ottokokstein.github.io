@@ -14,6 +14,12 @@ Links:
 
 [Github](https://github.com/ottokokstein)
 
-Feel free to contact me here:
+## Contact
+
+Feel free to contact me on Discord:
+
+<img src="images/discord.png" alt="Alt text" style="width: 50%;" />
+
+Or on my email address:
 
 <img src="images/email.png" alt="Alt text" style="width: 50%;" />
