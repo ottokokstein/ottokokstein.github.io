@@ -22,12 +22,12 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 ## Process Overview
 
 1. [Convert `.bik` to `.mp4` using FFmpeg](#1-convert-bik-to-mp4-using-ffmpeg)
-2. Generate `.wav` from `.mp4` using FFmpeg
-3. Convert `.srt` or `.txt` to `.ass` using FFmpeg
-4. Optional: Configure `.ass` formatting
-5. Burn `.ass` into `.mp4` using FFmpeg
-6. Convert `.mp4` to `.bik` using Rad Video Tools (with sound compression turned off)
-7. Add sound from `.wav` to `.bik` using Rad Video Tools
+2. [Generate `.wav` from `.mp4` using FFmpeg](#2-generate-wav-from-mp4-using-ffmpeg)
+3. [Convert `.srt` or `.txt` to `.ass` using FFmpeg](#3-convert-srt-or-txt-to-ass-using-ffmpeg)
+4. [Optional: Configure `.ass` formatting](#4-optional-configure-ass-formatting)
+5. [Burn `.ass` into `.mp4` using FFmpeg](#5-burn-ass-into-mp4-using-ffmpeg)
+6. [Convert `.mp4` to `.bik` using Rad Video Tools (with sound compression turned off)](#6-convert-mp4-to-bik-using-rad-video-tools-with-sound-compression-turned-off)
+7. [Add sound from `.wav` to `.bik` using Rad Video Tools](#7-add-sound-from-wav-to-bik-using-rad-video-tools)
 
 ## Detailed Guide
 
