@@ -3,7 +3,7 @@ authors = ["Otto Kokstein"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Test Site"
+title = "Otto Kokstein"
 
 [output.html]
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
