@@ -22,12 +22,12 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 ## Process Overview
 
 1. <a href="#1-convert-bik-to-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Convert &#96;.bik&#96; to &#96;.mp4&#96; using FFmpeg</a>
-2. [Generate `.wav` from `.mp4` using FFmpeg](#2-generate-wav-from-mp4-using-ffmpeg)
-3. [Convert `.srt` or `.txt` to `.ass` using FFmpeg](#3-convert-srt-or-txt-to-ass-using-ffmpeg)
-4. [Optional: Configure `.ass` formatting](#4-optional-configure-ass-formatting)
-5. [Burn `.ass` into `.mp4` using FFmpeg](#5-burn-ass-into-mp4-using-ffmpeg)
-6. [Convert `.mp4` to `.bik` using Rad Video Tools (with sound compression turned off)](#6-convert-mp4-to-bik-using-rad-video-tools-with-sound-compression-turned-off)
-7. [Add sound from `.wav` to `.bik` using Rad Video Tools](#7-add-sound-from-wav-to-bik-using-rad-video-tools)
+2. <a href="#2-generate-wav-from-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Generate &#96;.wav&#96; from &#96;.mp4&#96; using FFmpeg</a>
+3. <a href="#3-convert-srt-or-txt-to-ass-using-ffmpeg" style="color: inherit; text-decoration: none;">Convert &#96;.srt&#96; or &#96;.txt&#96; to &#96;.ass&#96; using FFmpeg</a>
+4. <a href="#4-optional-configure-ass-formatting" style="color: inherit; text-decoration: none;">Optional: Configure &#96;.ass&#96; formatting</a>
+5. <a href="#5-burn-ass-into-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Burn &#96;.ass&#96; into &#96;.mp4&#96; using FFmpeg</a>
+6. <a href="#6-convert-mp4-to-bik-using-rad-video-tools-with-sound-compression-turned-off" style="color: inherit; text-decoration: none;">Convert &#96;.mp4&#96; to &#96;.bik&#96; using Rad Video Tools (with sound compression turned off)</a>
+7. <a href="#7-add-sound-from-wav-to-bik-using-rad-video-tools" style="color: inherit; text-decoration: none;">Add sound from &#96;.wav&#96; to &#96;.bik&#96; using Rad Video Tools</a>
 
 ## Detailed Guide
 
