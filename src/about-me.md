@@ -18,8 +18,8 @@ Links:
 
 Feel free to contact me on Discord:
 
-<img src="images/discord.png" alt="Alt text" style="width: 50%;" />
+<img src="images/discord.png" alt="Discord username" style="width: 50%;" />
 
 Or on my email address:
 
-<img src="images/email.png" alt="Alt text" style="width: 50%;" />
+<img src="images/email.png" alt="Email address" style="width: 50%;" />
