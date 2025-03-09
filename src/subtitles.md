@@ -22,12 +22,12 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 ## Process Overview
 
 1. <a href="#1-convert-bik-to-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Convert <code style="color: inherit;">.bik</code> to <code style="color: inherit;">.mp4</code> using FFmpeg</a>
-2. <a href="#2-generate-wav-from-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Generate &#96;.wav&#96; from &#96;.mp4&#96; using FFmpeg</a>
-3. <a href="#3-convert-srt-or-txt-to-ass-using-ffmpeg" style="color: inherit; text-decoration: none;">Convert &#96;.srt&#96; or &#96;.txt&#96; to &#96;.ass&#96; using FFmpeg</a>
-4. <a href="#4-optional-configure-ass-formatting" style="color: inherit; text-decoration: none;">Optional: Configure &#96;.ass&#96; formatting</a>
-5. <a href="#5-burn-ass-into-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Burn &#96;.ass&#96; into &#96;.mp4&#96; using FFmpeg</a>
-6. <a href="#6-convert-mp4-to-bik-using-rad-video-tools-with-sound-compression-turned-off" style="color: inherit; text-decoration: none;">Convert &#96;.mp4&#96; to &#96;.bik&#96; using Rad Video Tools (with sound compression turned off)</a>
-7. <a href="#7-add-sound-from-wav-to-bik-using-rad-video-tools" style="color: inherit; text-decoration: none;">Add sound from &#96;.wav&#96; to &#96;.bik&#96; using Rad Video Tools</a>
+2. <a href="#2-generate-wav-from-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Generate <code style="color: inherit;">.wav</code> from <code style="color: inherit;">.mp4</code> using FFmpeg</a>
+3. <a href="#3-convert-srt-or-txt-to-ass-using-ffmpeg" style="color: inherit; text-decoration: none;">Convert <code style="color: inherit;">.srt</code> or <code style="color: inherit;">.txt</code> to <code style="color: inherit;">.ass</code> using FFmpeg</a>
+4. <a href="#4-optional-configure-ass-formatting" style="color: inherit; text-decoration: none;">Optional: Configure <code style="color: inherit;">.ass</code> formatting</a>
+5. <a href="#5-burn-ass-into-mp4-using-ffmpeg" style="color: inherit; text-decoration: none;">Burn <code style="color: inherit;">.ass</code> into <code style="color: inherit;">.mp4</code> using FFmpeg</a>
+6. <a href="#6-convert-mp4-to-bik-using-rad-video-tools-with-sound-compression-turned-off" style="color: inherit; text-decoration: none;">Convert <code style="color: inherit;">.mp4</code> to <code style="color: inherit;">.bik</code> using Rad Video Tools (with sound compression turned off)</a>
+7. <a href="#7-add-sound-from-wav-to-bik-using-rad-video-tools" style="color: inherit; text-decoration: none;">Add sound from <code style="color: inherit;">.wav</code> to <code style="color: inherit;">.bik</code> using Rad Video Tools</a>
 
 ## Detailed Guide
 
