@@ -1,6 +1,6 @@
 # Burning subtitles into a Bink Video File (.bik)
 
-While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the Internet yet, I decided to write this article. Note that there may be other, simpler methods.
+While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the Internet yet, I decided to write this article. Note that there may be other, simpler methods. Also, this guide is for Windows users; however, with some adjustments, it should still be possible on other operating systems.
 
 ## Goal
 
@@ -15,9 +15,9 @@ While working on the [Czech localization of Enderal: Forgotten Stories](enderal-
 
 ## Required programs
 
-1. FFmpeg (Install via [this article](https://www.hostinger.com/tutorials/how-to-install-ffmpeg))
-2. Optional: VLC Media Player (Download [here](https://www.videolan.org/vlc/))
-3. RAD Video Tools (Download [here](https://www.radgametools.com/bnkdown.htm) - Mind the password)
+1. FFmpeg (Install via [this article](https://www.hostinger.com/tutorials/how-to-install-ffmpeg), tested version **2023-05-31**)
+2. Optional: VLC Media Player (Download [here](https://www.videolan.org/vlc/), tested version **3.0.18**)
+3. RAD Video Tools (Download [here](https://www.radgametools.com/bnkdown.htm) - Mind the password, tested version **2025.01**)
 
 ## Process Overview
 
@@ -112,3 +112,6 @@ After the sound mixing finishes, close all RAD Video Tools windows.
 ### Conclusion
 
 You should now be left with a file called `New_output.bik` in your directory. RAD Video Tools also provides a Bink Video File player, so you can check if the process was successful.
+
+<br>
+<small>Created on March 8th, 2025</small>
