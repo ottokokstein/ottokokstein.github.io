@@ -1,1 +1,1 @@
-![Banner](images/enderal_banner_en)
+![Banner](images/enderal_banner_en.png)
