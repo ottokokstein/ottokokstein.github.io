@@ -7,6 +7,3 @@ title = "Otto Kokstein"
 
 [output.html]
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
-
-[build]
-create-missing = false
