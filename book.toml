@@ -18,7 +18,7 @@ create-missing = false
 [output.html]
 default-theme = "ayu"
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
-additional-css = ["theme/pagetoc.css", "css/custom.css"]
+additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
 
 [output.html.fold]
