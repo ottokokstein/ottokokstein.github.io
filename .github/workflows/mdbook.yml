@@ -1,5 +1,9 @@
 name: Build and Deploy mdBook
 
+permissions:
+  id-token: write
+  contents: write
+
 on:
   push:
     branches:
@@ -9,7 +13,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
