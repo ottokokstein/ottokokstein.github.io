@@ -12,6 +12,9 @@ content-max-width = "80%"
 page-padding = "25px"
 sidebar-width = "300px"
 
+[build]
+create-missing = false
+
 [output.html]
 default-theme = "ayu"
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
