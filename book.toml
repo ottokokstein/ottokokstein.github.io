@@ -13,20 +13,10 @@ page-padding = "25px"
 sidebar-width = "300px"
 
 [build]
-create-missing = false
+create-missing = true
 
 [output.html]
 default-theme = "ayu"
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
-
-[output.html.fold]
-enable = false
-level = 1
-
-[output.html.playground]
-editable = true
-
-[output.html.print]
-enable = false
