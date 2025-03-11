@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="images/enderal_banner_en.png" alt="Banner" />
+  <img src="images/enderal_banner_cz.png" alt="Banner" />
 </p>
