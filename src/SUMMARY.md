@@ -6,6 +6,7 @@
 
 - [Enderal Localization (EN)](enderal-localization-en.md)
 - [Lokalizace modu Enderal (CZ)](enderal-localization-cz.md)
+- [Lokalizace modu Enderal (CZ)](enderal-localization-cz.md)
 - [Bezierve](bezierve.md)
 
 # Guides
