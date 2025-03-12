@@ -5,18 +5,8 @@ multilingual = false
 src = "src"
 title = "Otto Kokstein"
 
-[preprocessor.theme]
-pagetoc = false
-pagetoc-width = "15%"
-content-max-width = "80%"
-page-padding = "25px"
-sidebar-width = "300px"
-
 [build]
 create-missing = true
 
 [output.html]
-default-theme = "ayu"
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
-additional-css = ["theme/pagetoc.css"]
-additional-js = ["theme/pagetoc.js"]
