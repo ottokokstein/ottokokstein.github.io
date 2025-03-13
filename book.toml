@@ -10,5 +10,6 @@ create-missing = false
 
 [output.html]
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
+default-theme = "ayu"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
