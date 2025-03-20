@@ -114,4 +114,5 @@ After the sound mixing finishes, close all RAD Video Tools windows.
 You should now be left with a file called `New_output.bik` in your directory. RAD Video Tools also provides a Bink Video File player, so you can check if the process was successful.
 
 <br>
-<small>Created on March 8th, 2025</small>
+<small>Created on March 20th, 2025</small>
+<br><br>
