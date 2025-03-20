@@ -2,7 +2,7 @@
   <img src="images/enderal_banner_en.png" alt="Banner" />
 </p>
 
-(Pro českou verzi textu viz článek [Česká lokalizace modu Enderal](enderal-localization-cz.md).)
+<small>(Pro českou verzi textu viz článek [Česká lokalizace modu Enderal](enderal-localization-cz.md).)</small>
 
 [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (formerly Enderal: Shards of Order) is a [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/) modification often considered a stand-alone game due to its sheer quality and scale. Since 2020, I have been localizing (= translating) it into Czech.
 
@@ -16,9 +16,9 @@ Every single in-game text, that is
 - Dialogues (in the form of subtitles)
 - Quest objectives and journal entries
 - Texts in textures
-- System messages
 - Menus and settings
 - Cinematics (in the form of subtitles)
+- System messages
 
 ### What won't be localized
 
