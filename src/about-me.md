@@ -1,6 +1,6 @@
 My name is Otto Kokstein, and I am a student in the Czech Republic with the goal of studying Nuclear Engineering in the future.
 
-My areas of interest include Programming, Software Developent, 3D Modelling, 3D Printing and Game Localization.
+My areas of interest include Programming, Software Developent, 3D Modelling and 3D Printing.
 
 I started learning Python in 2022 and since then, I have also picked up Java and some basic Rust.
 
