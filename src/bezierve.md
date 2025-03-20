@@ -18,7 +18,7 @@ To get an image of what Bezierve's premise is and what features it offers, you c
 - Option to add more than one Bézier curve (both linear and cubic, as they exist in the same space now)
 - Option to save the current configuration of curves as a savefile and load it later
 - Option to change curve's color
-- Option to show the curve's bounding box (technically known as its [minimum bounding rectangle](https://en.wikipedia.org/wiki/Minimum_bounding_rectangle))
+- Option to show the curve's bounding box (technically known as its axis-aligned [minimum bounding rectangle](https://en.wikipedia.org/wiki/Minimum_bounding_rectangle))
 - Formulae no longer produce horizontally flipped curves when used outside Bezierve, an issue present in version 1.0
 - Completely restructured code to follow a proper [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) design.
 
