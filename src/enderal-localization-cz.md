@@ -10,7 +10,7 @@
 
 ### Co bude lokalizováno
 
-Každý text ve hře, tedy:
+Každý text ve hře, tedy například:
 
 - názvy předmětů, kouzel, lokací, úkolů a postav,
 - dialogy (v podobě titulků),
@@ -22,7 +22,7 @@ Každý text ve hře, tedy:
 
 ### Co nebude lokalizováno
 
-- Spouštěč hry / Launcher (lokalizace není podporována),
+- <span class="tooltip" title="anglicky launcher">Spouštěč hry</span> (lokalizace není podporována),
 - audio,
 - knižní série „The Butcher of Ark“ (česky Arkský řezník).
 
