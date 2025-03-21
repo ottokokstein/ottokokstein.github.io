@@ -4,17 +4,17 @@
 
 <small>(The English version of this article can be found [here](enderal-localization-en.md).)</small>
 
-[Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (česky Enderal: Zapomenuté příběhy), dříve známý jako Enderal: Shards of Order (česky Enderal: Střípky Řádu), je mod hry [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/), často považovaný za vlastní, samostatnou hru díky svému nevídanému rozměru a kvalitě. Od roku 2020 lokalizuji (= překládám) Enderal do češtiny.
+[Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (česky Enderal: Zapomenuté příběhy), dříve známý jako Enderal: Shards of Order (česky Enderal: Střípky Řádu), je mod hry [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/), často považovaný za vlastní, samostatnou hru díky svému nevídanému rozměru a kvalitě. Od roku 2020 <span class="tooltip" title="lokalizace = překlad a přizpůsobení hry danému jazyku tak, aby byl překlad pro hráče přirozený a odpovídal místním zvyklostem a kultuře (lokalizace tedy zahrnuje například převádění jednotek, jako jsou stopy, na metry atd.)">lokalizuji</span> (překládám) Enderal do češtiny.
 
 ## Obsah
 
 ### Co bude lokalizováno
 
-Každý text ve hře, tedy
+Každý text ve hře, tedy:
 
 - názvy předmětů, kouzel, lokací, úkolů a postav,
 - dialogy (v podobě titulků),
-- úkoly a deníkové zápisy (= text v deníku popisující průběh úkolu),
+- většina knih,
 - texty v texturách,
 - nabídky a nastavení,
 - videosekvence (v podobě titulků),
@@ -23,7 +23,8 @@ Každý text ve hře, tedy
 ### Co nebude lokalizováno
 
 - Spouštěč hry / Launcher (lokalizace není podporována),
-- audio.
+- audio,
+- knižní série „The Butcher of Ark“ (česky Arkský řezník).
 
 ## Motivace
 
@@ -31,9 +32,9 @@ Už od chvíle, kdy jsem poprvé hrál Enderal a zjistil, že mu chybí česká 
 
 ## Proces lokalizace
 
-Herní textové řetězce (= stringy) lokalizuji v programu [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134) a textury upravuji v programu [Photopea](https://www.photopea.com). Herní videosekvence jsem lokalizoval „zapečením“ titulků do videa, anglicky se takovým titulkům říká „burnt subtitles“. O tomto „zapečení“ jsem napsal [anglický návod](subtitles.md), ve kterém se můžete dozvědět přesný postup, jejž jsem při lokalizaci videosekvencí použil.
+Herní <span class="tooltip" title ="anglicky strings">textové řetězce</span> lokalizuji v programu [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134) a textury upravuji v programu [Photopea](https://www.photopea.com). Herní videosekvence jsem lokalizoval <span class="tooltip" title="anglicky se takové titulky označují jako „burnt subtitles“">„zapečením“ titulků</span> do videa. O tomto „zapečení“ jsem napsal [anglický návod](subtitles.md), ve kterém popisuji přesný postup, jejž jsem při lokalizaci videosekvencí použil.
 
-Pro více informací o procesu lokalizace viz anglický článěk na enderalské wiki [Enderal:Localization](https://en.wiki.sureai.net/Enderal:Localization).
+Více informací o procesu lokalizace najdete na stránce [Enderal:Localization](https://en.wiki.sureai.net/Enderal:Localization).
 
 ## Stažení
 
