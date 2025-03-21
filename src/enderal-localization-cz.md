@@ -4,7 +4,9 @@
 
 <small>(The English version of this article can be found [here](enderal-localization-en.md).)</small>
 
-[Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (česky Enderal: Zapomenuté příběhy), dříve známý jako Enderal: Shards of Order (česky Enderal: Střípky Řádu), je mod hry [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/), často považovaný za vlastní, samostatnou hru díky svému nevídanému rozměru a kvalitě. Od roku 2020 <span class="tooltip" title="lokalizace = překlad a přizpůsobení hry danému jazyku tak, aby byl překlad pro hráče přirozený a odpovídal místním zvyklostem a kultuře (lokalizace tedy zahrnuje například převádění jednotek, jako jsou stopy, na metry atd.)">lokalizuji</span> (překládám) Enderal do češtiny.
+[Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (česky Enderal: Zapomenuté příběhy), dříve známý jako Enderal: Shards of Order (česky Enderal: Střípky Řádu), je mod hry [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/), často považovaný za vlastní, samostatnou hru díky svému nevídanému rozměru a kvalitě. Od roku 2020 <span class="tooltip" title="
+lokalizace = překlad a přizpůsobení hry danému jazyku tak, aby byl překlad pro hráče přirozený a odpovídal místním zvyklostem a kultuře (lokalizace tedy zahrnuje například převádění jednotek, jako jsou stopy, na metry atd.)
+">lokalizuji</span>[^1] (překládám) Enderal do češtiny.
 
 ## Obsah
 
@@ -22,7 +24,7 @@ Každý text ve hře, tedy například:
 
 ### Co nebude lokalizováno
 
-- <span class="tooltip" title="anglicky launcher">Spouštěč hry</span> (lokalizace není podporována),
+- <span class="tooltip" title="anglicky launcher">Spouštěč hry</span>[^2] (lokalizace není podporována),
 - audio,
 - knižní série „The Butcher of Ark“ (česky Arkský řezník).
 
@@ -32,13 +34,26 @@ Už od chvíle, kdy jsem poprvé hrál Enderal a zjistil, že mu chybí česká 
 
 ## Proces lokalizace
 
-Herní <span class="tooltip" title ="anglicky strings">textové řetězce</span> lokalizuji v programu [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134) a textury upravuji v programu [Photopea](https://www.photopea.com). Herní videosekvence jsem lokalizoval <span class="tooltip" title="anglicky se takové titulky označují jako „burnt subtitles“">„zapečením“ titulků</span> do videa. O tomto „zapečení“ jsem napsal [anglický návod](subtitles.md), ve kterém popisuji přesný postup, jejž jsem při lokalizaci videosekvencí použil.
+Herní <span class="tooltip" title ="anglicky strings">textové řetězce</span>[^3] lokalizuji v programu [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134) a textury upravuji v programu [Photopea](https://www.photopea.com). Herní videosekvence jsem lokalizoval <span class="tooltip" title="anglicky se takové titulky označují jako „burnt subtitles“">„zapečením“ titulků</span>[^4] do videa. O tomto „zapečení“ jsem napsal [anglický návod](subtitles.md), ve kterém popisuji přesný postup, jejž jsem při lokalizaci videosekvencí použil.
 
 Více informací o procesu lokalizace najdete na stránce [Enderal:Localization](https://en.wiki.sureai.net/Enderal:Localization).
 
 ## Stažení
 
 Jakmile bude lokalizace hotová, stane se dostupnou na platformě Steam, stejně jako kterákoli jiná oficiální herní lokalizace. Rovněž nahraji lokalizované herní soubory sem na svou stránku spolu s návodem, jak lokalizaci manuálně implementovat v herních souborech.
+
+## Galerie
+
+xyz
+
+<br>
+
+<hr />
+
+[^1]: lokalizace = překlad a přizpůsobení hry danému jazyku tak, aby byl překlad pro hráče přirozený a odpovídal místním zvyklostem a kultuře (lokalizace tedy zahrnuje například převádění jednotek, jako jsou stopy, na metry atd.)
+[^2]: anglicky launcher
+[^3]: anglicky strings
+[^4]: anglicky se takové titulky označují jako „burnt subtitles“
 
 <br>
 <small>Vytvořeno 20.3.2025</small>
