@@ -1,10 +1,10 @@
 # Summary
 
-- [About Me](about-me.md)
+[About Me](about-me.md)
 
 # Projects
 
-- [Enderal Czech Localization (EN)](enderal-localization-en.md)
+- [Czech Localization of Enderal (EN)](enderal-localization-en.md)
 - [Česká lokalizace modu Enderal (CZ)](enderal-localization-cz.md)
 - [Bezierve](bezierve.md)
 
