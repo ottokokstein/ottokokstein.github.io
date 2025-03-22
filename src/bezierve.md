@@ -19,7 +19,7 @@ To get an image of what Bezierve's premise is and what features it offers, you c
 ## New with version 2.0
 
 - Cleaner UI
-- Option to add more than one Bézier curve (both linear and cubic, as they exist in the same space now)
+- Option to add more than one Bézier curve (either linear, quadratic or cubic)
 - Option to save the current configuration of curves as a savefile and load it later
 - Option to change curve's color
 - Option to show the curve's bounding box (technically known as its axis-aligned [minimum bounding rectangle](https://en.wikipedia.org/wiki/Minimum_bounding_rectangle))
