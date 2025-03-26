@@ -42,9 +42,19 @@ Více informací o procesu lokalizace najdete na stránce [Enderal:Localization]
 
 Jakmile bude lokalizace hotová, stane se dostupnou na platformě Steam, stejně jako kterákoli jiná oficiální herní lokalizace. Rovněž nahraji lokalizované herní soubory sem na svou stránku spolu s návodem, jak lokalizaci manuálně implementovat v herních souborech.
 
-## Galerie
+## Ukázka
 
-xyz
+### Video ukázka
+
+<iframe style="width: 35vw; height: 20vw;"
+    src="https://www.youtube.com/embed/WR9Hxv33W0k" allowfullscreen>
+</iframe>
+
+### Galerie
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_1.jpg" alt="Ukázka překladu 1" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_2.jpg" alt="Ukázka překladu 2" />
 
 <br>
 

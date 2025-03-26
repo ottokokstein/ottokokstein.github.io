@@ -13,7 +13,7 @@ I developed the program in Python's library [Tkinter](https://docs.python.org/3/
 To get an image of what Bezierve's premise is and what features it offers, you can watch the [YouTube video](https://www.youtube.com/watch?v=HN47iyTLCG8) I made about it.
 
 <iframe style="width: 35vw; height: 20vw;"
-    src="https://www.youtube.com/embed/HN47iyTLCG8">
+    src="https://www.youtube.com/embed/HN47iyTLCG8" allowfullscreen>
 </iframe>
 
 ## New with version 2.0
@@ -28,7 +28,7 @@ To get an image of what Bezierve's premise is and what features it offers, you c
 
 You can see the version 2.0's new UI here:
 
-<img src="images/bezierve_v2_ui.png" alt="New UI of version 2.0" style="position: relative; left: 1em; width: 60vw;" />
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; left: 1em; cursor: zoom-in;" src="images/bezierve_v2_ui.png" alt="New UI of version 2.0" />
 
 <small>Created on March 20th, 2025</small>
 <br><br>

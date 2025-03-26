@@ -43,9 +43,19 @@ More info about the process of localization itself can be found [here](https://e
 
 When the localization is finished, it will be available on Steam just as any other official localization. I will also post the files here on my website with a guide detailing the process of manually downloading them and implementing them into the game.
 
-## Gallery
+## Showcase
 
-xyz
+### Video Showcase
+
+<iframe style="width: 35vw; height: 20vw;"
+    src="https://www.youtube.com/embed/WR9Hxv33W0k" allowfullscreen>
+</iframe>
+
+### Gallery
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_1.jpg" alt="Gallery Image 1" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_2.jpg" alt="Gallery Image 2" />
 
 <br>
 
