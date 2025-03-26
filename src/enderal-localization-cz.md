@@ -47,7 +47,7 @@ Jakmile bude lokalizace hotová, stane se dostupnou na platformě Steam, stejně
 ### Video ukázka
 
 <iframe style="width: 35vw; height: 20vw;"
-    src="https://www.youtube.com/embed/WR9Hxv33W0k" allowfullscreen>
+    src="https://www.youtube.com/embed/WR9Hxv33W0k?cc_load_policy=0" allowfullscreen>
 </iframe>
 
 ### Galerie
