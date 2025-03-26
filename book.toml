@@ -12,5 +12,5 @@ create-missing = false
 git-repository-url = "https://github.com/ottokokstein/ottokokstein.github.io/"
 default-theme = "ayu"
 additional-css = ["theme/pagetoc.css", "theme/css/adjustments.css", "theme/css/tooltips.css"]
-additional-js = ["theme/pagetoc.js"]
+additional-js = ["theme/pagetoc.js", "theme/js/modal.js"]
 theme = "theme"
