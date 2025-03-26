@@ -23,3 +23,7 @@ p {
 :root {
     --sidebar-width: 320px;
 }
+
+.nav-chapters {
+    display: none;
+}
