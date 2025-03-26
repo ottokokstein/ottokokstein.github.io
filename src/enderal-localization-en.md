@@ -6,7 +6,7 @@
 
 [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (formerly Enderal: Shards of Order) is a [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/) modification often considered a stand-alone game due to its sheer quality and scale. Since 2020, I have been <span class="tooltip" title="
 localization = translation and adaptation of a game to a specific language so that the translation feels natural to players and aligns with local customs and culture (localization includes, for example, converting units like feet to meters, etc.)
-">localizing</span>[^1] (translating) it into Czech.
+">localizing</span>[^1] it into Czech.
 
 ## Content
 

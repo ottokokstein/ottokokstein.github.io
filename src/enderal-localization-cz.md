@@ -6,7 +6,7 @@
 
 [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (česky Enderal: Zapomenuté příběhy), dříve známý jako Enderal: Shards of Order (česky Enderal: Střípky Řádu), je mod hry [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/), často považovaný za vlastní, samostatnou hru díky svému nevídanému rozměru a kvalitě. Od roku 2020 <span class="tooltip" title="
 lokalizace = překlad a přizpůsobení hry danému jazyku tak, aby byl překlad pro hráče přirozený a odpovídal místním zvyklostem a kultuře (lokalizace tedy zahrnuje například převádění jednotek, jako jsou stopy, na metry atd.)
-">lokalizuji</span>[^1] (překládám) Enderal do češtiny.
+">lokalizuji</span>[^1] Enderal do češtiny.
 
 ## Obsah
 
