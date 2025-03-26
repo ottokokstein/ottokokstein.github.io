@@ -10,7 +10,7 @@
 
 ### Co bude lokalizováno
 
-Každý text ve hře, tedy například:
+Téměř každý text ve hře, tedy například:
 
 - názvy předmětů, kouzel, lokací, úkolů a postav,
 - dialogy (v podobě titulků),

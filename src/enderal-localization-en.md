@@ -10,7 +10,7 @@
 
 ### What will be localized
 
-Every single in-game text, for example:
+Almost every in-game text, for example:
 
 - Names of items, spells, locations, quests and NPCs
 - Dialogues (in the form of subtitles)
