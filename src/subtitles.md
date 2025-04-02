@@ -2,6 +2,8 @@
 
 While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the Internet yet, I decided to write this article. Note that there may be other, simpler methods. Also, this guide is for Windows users; however, with some adjustments, it should still be possible on other operating systems.
 
+Note: It might be a good idea to backup your input files just in case.
+
 ## Goal
 
 ### Input files
