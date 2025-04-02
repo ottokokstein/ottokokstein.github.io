@@ -1,6 +1,6 @@
 # Burning subtitles into a Bink Video File (.bik)
 
-While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the Internet yet, I decided to write this article. Note that there may be other, simpler methods. Also, this guide is for Windows users; however, with some adjustments, it should still be possible on other operating systems.
+While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the internet yet, I decided to write this article. Note that there may be other, simpler methods. Also, this guide is for Windows users; however, with some adjustments, it should still be possible on other operating systems.
 
 Note: It might be a good idea to backup your input files just in case.
 
@@ -45,7 +45,7 @@ To convert a Bink Video File (`.bik`) to `.mp4`, we will use FFmpeg. First, open
 
 You can then convert the `.bik` video file using:
 
-`ffmpeg -i "input.bik" -c:v libx264 -preset fast -crf 23 -c:a aac`
+`ffmpeg -i "input.bik" -c:v libx264 -preset fast -crf 23 -c:a aac "input.mp4"`
 
 (replace `input.bik` with the name of your `.bik` file)
 
@@ -56,8 +56,6 @@ Setting the `crf` value (default = 23) lower will make the output `.mp4` video h
 You will also need a `.wav` sound file for later. You can generate it from the `.mp4` you just created using:
 
 `ffmpeg -i "input.mp4" -acodec pcm_s16le -ar 44100 -ac 2 "output.wav"`
-
-(replace `input.mp4` with the name of your `.mp4` file)
 
 ### 3. Convert `.srt` or `.txt` to `.ass` using FFmpeg
 
@@ -80,8 +78,6 @@ The `.ass` subtitle format supports a wide range of customization. You can edit 
 If your `.ass` subtitles are ready to be burned into your video, you can do so using this command:
 
 `ffmpeg -i "input.mp4" -vf "ass=output.ass" "output.mp4"`
-
-(replace `input.mp4` with the name of your `.mp4` file)
 
 Note that this step may take up to several minutes.
 
