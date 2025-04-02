@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ottokokstein.github.io/sitemap.xml
