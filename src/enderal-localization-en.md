@@ -55,6 +55,16 @@ When the localization is finished, it will be available on Steam just as any oth
 
 <img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_2.jpg" alt="Gallery Image 2" />
 
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_3.jpg" alt="Gallery Image 3" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_4.jpg" alt="Gallery Image 4" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_5.jpg" alt="Gallery Image 5" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_6.jpg" alt="Gallery Image 6" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_7.jpg" alt="Gallery Image 7" />
+
 <br>
 
 <hr />

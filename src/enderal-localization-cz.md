@@ -54,6 +54,16 @@ Jakmile bude lokalizace hotová, stane se dostupnou na platformě Steam, stejně
 
 <img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_2.jpg" alt="Ukázka překladu 2" />
 
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_3.jpg" alt="Ukázka překladu 3" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_4.jpg" alt="Ukázka překladu 4" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_5.jpg" alt="Ukázka překladu 5" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_6.jpg" alt="Ukázka překladu 6" />
+
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_7.jpg" alt="Ukázka překladu 7" />
+
 <br>
 
 <hr />
