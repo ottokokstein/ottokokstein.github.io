@@ -22,7 +22,7 @@ Téměř každý text ve hře, tedy například:
 
 ### Co nebude lokalizováno
 
-- Spouštěč, tj. anglicky launcher (lokalizace není podporována),
+- Spouštěč, tj. launcher (lokalizace není podporována),
 - audio,
 - knižní série „The Butcher of Ark“ (česky Arkský řezník).
 
