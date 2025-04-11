@@ -1,6 +1,6 @@
 # Burning subtitles into a Bink Video File (.bik)
 
-While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the internet yet, I decided to write this article. Note that there may be other, simpler methods. Also, this guide is for Windows users; however, with some adjustments, it should still be possible on other operating systems.
+While working on the [Czech localization of Enderal: Forgotten Stories](enderal-localization-en.md), I needed to burn subtitles into a `.bik` video. Upon realizing there isn't a guide on how to do this on the internet yet, I decided to write this article. Note that there may be other, simpler methods. Also, this guide is for Windows users; however, with some adjustments, it should still be possible on other operating systems.
 
 Note: It might be a good idea to backup your input files just in case.
 
@@ -104,6 +104,8 @@ Now, open RAD Video Tools once again and navigate to your directory inside the p
 In the new window, click `Browse`, navigate to your directory and select `output.wav`. After that, press `Mix`, as shown in the image below:
 
 ![Instructions visualization](images/subtitles_rvt4.png)
+
+You can also adjust the `Sound compression level` to reduce file size or improve audio quality, depending on your needs.
 
 After the sound mixing finishes, close all RAD Video Tools windows.
 
