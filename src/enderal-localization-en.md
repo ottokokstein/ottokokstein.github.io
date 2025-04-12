@@ -65,6 +65,8 @@ When the localization is finished, it will be available on Steam just as any oth
 
 <img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_7.jpg" alt="Gallery Image 7" />
 
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_8.jpg" alt="Gallery Image 8" />
+
 <br>
 
 <hr />
