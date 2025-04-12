@@ -64,6 +64,8 @@ Jakmile bude lokalizace hotová, stane se dostupnou na platformě Steam, stejně
 
 <img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_7.jpg" alt="Ukázka překladu 7" />
 
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_8.jpg" alt="Ukázka překladu 8" />
+
 <br>
 
 <hr />
