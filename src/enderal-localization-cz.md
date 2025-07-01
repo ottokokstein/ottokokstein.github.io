@@ -38,7 +38,7 @@ Více informací o procesu lokalizace najdete na stránce [Enderal:Localization]
 
 ## Stažení
 
-Jakmile bude lokalizace hotová, stane se dostupnou na platformě Steam, stejně jako kterákoli jiná oficiální herní lokalizace. Rovněž nahraji lokalizované herní soubory sem na svou stránku spolu s návodem, jak lokalizaci manuálně implementovat v herních souborech.
+K roku 2025 je lokalizace dokončena. Už pouze zbývá zveřejnit ji na Steamu jako oficiální lokalizaci ze strany vývojářů Enderalu, kteří mě upozornili, že to bude chvíli trvat. S jejich souhlasem jsem se proto rozhodl soubory zveřejnit na Nexus Mods. Najdete je [zde](https://www.nexusmods.com/enderal/mods/327) spolu s instalačním návodem. Pokud narazíte na jakékoli problémy, neváhejte mě [kontaktovat](about-me.md).
 
 ## Ukázka
 

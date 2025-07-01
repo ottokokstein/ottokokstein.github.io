@@ -39,7 +39,7 @@ More info about the process of localization itself can be found [here](https://e
 
 ## Download
 
-When the localization is finished, it will be available on Steam just as any other official localization. I will also post the files here on my website with a guide detailing the process of manually downloading them and implementing them into the game.
+As of 2025, the localization is complete. The only remaining step is for the SureAI developers to publish it on Steam as an official localization, which they have noted may take some time. With their approval, I have decided to release the files on Nexus Mods in the meantime. You can find them [here](https://www.nexusmods.com/enderal/mods/327), along with an installation guide. If you run into any issues, don't hesitate to [contact me](about-me.md).
 
 ## Showcase
 
