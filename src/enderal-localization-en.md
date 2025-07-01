@@ -27,6 +27,8 @@ Almost every in-game text, for example:
 - Audio
 - "The Butcher of Ark" book series
 
+Note: If you choose to play as a female character, the game will still address you as male, as I have not yet found a way to provide separate strings for male and female protagonists.
+
 ## Motivation
 
 Ever since first playing Enderal and discovering that it was missing a Czech localization, I knew it was something I wanted to pursue. My main motivation was to allow Czech players to enjoy its lore, story and ambience without any language barriers.

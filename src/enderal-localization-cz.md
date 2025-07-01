@@ -26,6 +26,8 @@ Téměř každý text ve hře, tedy například:
 - audio,
 - knižní série „The Butcher of Ark“ (česky Arkský řezník).
 
+Poznámka: Pokud se rozhodnete hrát za ženskou postavu, hra vás bude stále oslovovat v mužském rodě, protože jsem dosud nenašel způsob, jak mít pro mužské a ženské hlavní postavy odlišné sady textů.
+
 ## Motivace
 
 Už od chvíle, kdy jsem poprvé hrál Enderal a zjistil, že mu chybí česká lokalizace, věděl jsem, že je to něco, co bych chtěl uskutečnit. Mou hlavní motivací je zpřístupnit příběh, prostředí i všechny ostatní prvky Enderalu lidem, kteří neovládají angličtinu nebo jednoduše preferují češtinu.
