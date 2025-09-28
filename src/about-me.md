@@ -16,10 +16,6 @@ Links:
 
 ## Contact
 
-Feel free to contact me on Discord:
-
-<img src="images/discord.png" alt="Discord username" style="width: 50%;" />
-
-Or on my email address:
+Feel free to contact me on my email address:
 
 <img src="images/email.png" alt="Email address" style="width: 50%;" />
