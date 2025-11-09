@@ -4,11 +4,11 @@
 
 <small>(Pro českou verzi textu viz článek [Česká lokalizace modu Enderal](enderal-localization-cz.md).)</small>
 
-[Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (formerly Enderal: Shards of Order) is a [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/) modification often considered a stand-alone game due to its sheer quality and scale. Since 2020, I have been localizing[^1] it into Czech.
+[Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) (formerly Enderal: Shards of Order) is a [Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/) modification often considered a stand-alone game due to its sheer quality and scale. Between 2020 and 2025, I localized[^1] Enderal into Czech, including both the original version and the fan-made port for Skyrim Special Edition.
 
 ## Content
 
-### What will be localized
+### What is localized
 
 Almost every in-game text, for example:
 
@@ -21,9 +21,9 @@ Almost every in-game text, for example:
 - Cinematics (in the form of subtitles)
 - System messages
 
-### What won't be localized
+### What isn't localized
 
-- Game launcher (localization not supported)
+- Game launcher
 - Audio
 - "The Butcher of Ark" book series
 
@@ -35,13 +35,17 @@ Ever since first playing Enderal and discovering that it was missing a Czech loc
 
 ## Process
 
-Strings (in-game texts) are localized in [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134) and textures are edited in [Photopea](https://www.photopea.com). Enderal's cinematics were localized by burning subtitles into them (I have posted a [guide](subtitles.md) detailing the exact process I used, if you are interested).
+Strings (in-game texts) were localized in [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134) and textures edited in [Photopea](https://www.photopea.com). Enderal's cinematics were localized by burning subtitles into them (I have posted a [guide](subtitles.md) detailing the exact process I used, if you are interested).
 
 More info about the process of localization itself can be found [here](https://en.wiki.sureai.net/Enderal:Localization).
 
 ## Download
 
-As of 2025, the localization is complete. The only remaining step is for the SureAI developers to publish it on Steam as an official localization, which they have noted may take some time. With their approval, I have decided to release the files on Nexus Mods in the meantime. You can find them [here](https://www.nexusmods.com/enderal/mods/327), along with an installation guide. If you run into any issues, don't hesitate to [contact me](about-me.md).
+The localization can be downloaded on Nexus Mods, where I uploaded it with the developers’ permission. Nexus Mods is also ideal for reporting bugs and issues, so feel free to leave a message there if you encounter any problems.
+
+Localization of the original Enderal (Classic Edition): [https://www.nexusmods.com/enderal/mods/327](https://www.nexusmods.com/enderal/mods/327)
+
+Localization of Enderal SE (Special Edition): [https://www.nexusmods.com/enderalspecialedition/mods/996](https://www.nexusmods.com/enderalspecialedition/mods/996)
 
 ## Showcase
 
@@ -69,12 +73,15 @@ As of 2025, the localization is complete. The only remaining step is for the Sur
 
 <img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_8.jpg" alt="Gallery Image 8" />
 
+<img data-enlargeable style="width: 35vw; height: 20vw; position: relative; cursor: zoom-in;" src="images/enderal_image_9.jpg" alt="Gallery Image 9" />
+
 <br>
 
 <hr />
 
-[^1]: localization = translation and adaptation of a game to a specific language so that the translation feels natural to players and aligns with local customs and culture (localization includes, for example, converting units like feet to meters, etc.)
+[^1]: localization = the translation and adaptation of a game into a given language so that the translation feels natural to players and aligns with local customs and culture. Localization therefore includes not only the translation itself but also, for example, converting units, using slang and colloquial language where appropriate, translating names of places and characters, and so on.
 
 <br>
 <small>Created on March 20th, 2025</small>
+<small>Last edited on November 9th, 2025</small>
 <br><br>
