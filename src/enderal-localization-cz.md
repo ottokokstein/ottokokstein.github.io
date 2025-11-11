@@ -53,7 +53,7 @@ Zároveň jsem v kontaktu s vývojáři, kteří podotkli, že oficiální vydá
 ### Video ukázka
 
 <iframe style="width: 35vw; height: 20vw;"
-    src="https://www.youtube.com/watch?v=wiIeZoUC5zA?cc_load_policy=0" allowfullscreen>
+    src="https://www.youtube.com/embed/wiIeZoUC5zA?cc_load_policy=0" allowfullscreen>
 </iframe>
 
 ### Galerie
@@ -83,6 +83,7 @@ Zároveň jsem v kontaktu s vývojáři, kteří podotkli, že oficiální vydá
 [^1]: lokalizace = překlad a přizpůsobení hry danému jazyku tak, aby byl překlad pro hráče přirozený a odpovídal místním zvyklostem a kultuře (lokalizace tedy kromě samotného překladu zahrnuje například také převádění jednotek, užívání slangu a hovorového jazyka ve vhodných situacích, překlad názvů míst a postav atd.)
 
 <br>
-<small>Vytvořeno 20.3.2025</small>
 <small>Naposledy aktualizováno 9.11.2025</small>
+
+<small>Vytvořeno 20.3.2025</small>
 <br><br>

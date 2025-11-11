@@ -52,7 +52,7 @@ Localization of Enderal SE (Special Edition): [https://www.nexusmods.com/enderal
 ### Video Showcase
 
 <iframe style="width: 35vw; height: 20vw;"
-    src="https://www.youtube.com/watch?v=wiIeZoUC5zA?cc_load_policy=0" allowfullscreen>
+    src="https://www.youtube.com/embed/wiIeZoUC5zA?cc_load_policy=0" allowfullscreen>
 </iframe>
 
 ### Gallery
@@ -82,6 +82,7 @@ Localization of Enderal SE (Special Edition): [https://www.nexusmods.com/enderal
 [^1]: localization = the translation and adaptation of a game into a given language so that the translation feels natural to players and aligns with local customs and culture. Localization therefore includes not only the translation itself but also, for example, converting units, using slang and colloquial language where appropriate, translating names of places and characters, and so on.
 
 <br>
-<small>Created on March 20th, 2025</small>
 <small>Last edited on November 9th, 2025</small>
+
+<small>Created on March 20th, 2025</small>
 <br><br>
