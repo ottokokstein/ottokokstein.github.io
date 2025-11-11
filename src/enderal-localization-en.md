@@ -52,7 +52,7 @@ Localization of Enderal SE (Special Edition): [https://www.nexusmods.com/enderal
 ### Video Showcase
 
 <iframe style="width: 35vw; height: 20vw;"
-    src="https://www.youtube.com/embed/WR9Hxv33W0k?cc_load_policy=0" allowfullscreen>
+    src="https://www.youtube.com/watch?v=wiIeZoUC5zA?cc_load_policy=0" allowfullscreen>
 </iframe>
 
 ### Gallery
