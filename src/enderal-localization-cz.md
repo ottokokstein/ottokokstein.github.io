@@ -42,11 +42,11 @@ Více informací o procesu lokalizace najdete na stránce [Enderal:Localization]
 
 Lokalizaci lze stáhnout na Nexus Mods, kam jsem ji se souhlasem vývojářů nahrál. Nexus Mods je zároveň ideální pro nahlašování chyb a potíží, proto tam neváhejte napsat, pokud narazíte na nějaký problém.
 
-Lokalizace pro klasický Enderal (Classic Edition): [https://www.nexusmods.com/enderal/mods/327](https://www.nexusmods.com/enderal/mods/327)
+Lokalizace pro klasický Enderal: [https://www.nexusmods.com/enderal/mods/327](https://www.nexusmods.com/enderal/mods/327)
 
 Lokalizace pro Enderal SE (Special Edition): [https://www.nexusmods.com/enderalspecialedition/mods/996](https://www.nexusmods.com/enderalspecialedition/mods/996)
 
-Zároveň jsem v kontaktu s vývojáři, kteří podotkli, že oficiální vydání lokalizace na Steamu sice není pravděpodobné, ale zcela ho nevyloučili.
+Verze Enderalu SE z Mod:Pubu ([https://mod.pub/enderal-se/38-enderal-se](https://mod.pub/enderal-se/38-enderal-se)) již obsahuje tuto lokalizaci, a není tedy nutné stahovat ji z Nexus Mods.
 
 ## Ukázka
 
