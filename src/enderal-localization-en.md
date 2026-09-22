@@ -47,6 +47,8 @@ Localization of the original Enderal (Classic Edition): [https://www.nexusmods.c
 
 Localization of Enderal SE (Special Edition): [https://www.nexusmods.com/enderalspecialedition/mods/996](https://www.nexusmods.com/enderalspecialedition/mods/996)
 
+Enderal SE on Mod:Pub ([https://mod.pub/enderal-se/38-enderal-se](https://mod.pub/enderal-se/38-enderal-se)) already contains this localization, so there is no need to download it from Nexus Mods.
+
 ## Showcase
 
 ### Video Showcase
